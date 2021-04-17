@@ -7,8 +7,7 @@ import {
   UPDATE_PROFILE,
   ACCOUNT_DELETED,
   GET_PROFILES,
-  GET_REPOS,
-  NO_REPOS
+  GET_REPOS
 } from './types';
 
 
